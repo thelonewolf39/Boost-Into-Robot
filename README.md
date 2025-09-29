@@ -7,7 +7,7 @@ This guide will help you install the **Pybricks firmware** onto the lego boost h
 
 ---
 
-## Step 1: Download the Firmware and Visit the Documentation
+### Step 1: Download the Firmware and Visit the Documentation
 
 You must first download the Pybricks firmware and follow the official, detailed installation instructions on their website.
 
@@ -17,7 +17,7 @@ You must first download the Pybricks firmware and follow the official, detailed 
 
 ---
 
-## Step 2: Follow the Pybricks On-Screen Instructions
+### Step 2: Follow the Pybricks On-Screen Instructions
 
 The Pybricks website provides a web-based flasher tool and step-by-step instructions. Please follow their guidance carefully.
 
@@ -30,7 +30,7 @@ The Pybricks website provides a web-based flasher tool and step-by-step instruct
 
 ---
 
-## Step 3: Start Programming!
+### Step 3: Start Programming!
 
 After installing the firmware, you can begin programming your boost hub!
 
